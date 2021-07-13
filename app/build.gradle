@@ -51,5 +51,9 @@ dependencies {
     implementation 'com.google.firebase:firebase-core:10.2.0'
     implementation 'com.google.firebase:firebase-database:10.2.0'
     implementation 'com.readystatesoftware.sqliteasset:sqliteassethelper:+'
+    implementation 'com.firebaseui:firebase-ui-database:7.2.0'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.google.firebase:firebase-storage:10.2.0'
+    implementation 'com.google.firebase:firebase-auth:10.2.0'
 }
 apply plugin: 'com.google.gms.google-services'
